@@ -74,7 +74,7 @@ We keep an updated and curated list of models and examples built with Burn, see 
 ## Get Started
 
 The best way to get started with `burn` is to clone the repo and play with the
-[examples](#examples). This may also be a good idea to take a look the main
+[examples](#examples). This may also be a good idea to take a look at the main
 [components](#components) of `burn` to get a quick overview of the fundamental building blocks. If
 you're interested in how the framework works, you can read our
 [architecture document](https://github.com/burn-rs/burn/tree/main/ARCHITECTURE.md).
